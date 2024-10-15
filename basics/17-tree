@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir 17-tree/{welcome/,welcome/to/,welcome/to/school} 
